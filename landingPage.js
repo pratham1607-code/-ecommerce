@@ -3,11 +3,11 @@ $(document).ready(() => {
 
     // Banner Owl Carousel
     $('#owl_carousel .owl-carousel').owlCarousel({
-        items: 3,
+        items: 1,
         dots:true,
         loop: true,
         autoplay:true,
-        autoplayTimeout:200,
+        autoplayTimeout:1000,
         stagePadding: 0
     });
   });
