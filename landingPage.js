@@ -7,7 +7,7 @@ $(document).ready(() => {
         dots:true,
         loop: true,
         autoplay:true,
-        autoplayTimeout:10,
+        autoplayTimeout:200,
         stagePadding: 0
     });
   });
